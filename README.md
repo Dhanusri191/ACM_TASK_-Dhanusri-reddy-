@@ -9,3 +9,6 @@ Hackerrank ID: @dhanusri5reddy
 
 ```Task-1```
 https://github.com/Dhanusri191/ACM_TASK_-Dhanusri-reddy-/blob/main/pictures/TASK_1_CLASSIFICATION%20%20ALGORITHMS.pdf
+
+```Task-2```
+https://github.com/Dhanusri191/ACM_TASK_-Dhanusri-reddy-/blob/main/pictures/TASK_2_IMPLEMENTING_CLASSIFIERS.pdf
