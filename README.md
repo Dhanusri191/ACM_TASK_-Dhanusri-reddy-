@@ -7,3 +7,5 @@ Hackerrank ID: @dhanusri5reddy
 ![img](https://github.com/Dhanusri191/ACM_TASK_-Dhanusri-reddy-/blob/main/pictures/Dhanusri%20reddy%20-%20Intro%20to%20Machine%20Learning.png)
 ![img](https://github.com/Dhanusri191/ACM_TASK_-Dhanusri-reddy-/blob/main/pictures/Dhanusri%20reddy%20-%20Intermediate%20Machine%20Learning.png)
 
+```Task-1```
+https://github.com/Dhanusri191/ACM_TASK_-Dhanusri-reddy-/blob/main/pictures/TASK_1_CLASSIFICATION%20%20ALGORITHMS.pdf
